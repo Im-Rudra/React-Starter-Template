@@ -17,6 +17,7 @@
     "jest": true
   },
   "rules": {
+    //  0 = off; 1 = error; 2 = warning;
     "import/prefer-default-export": 0,
     "no-useless-return": 0,
     "jsx-a11y/no-onchange": 0,
